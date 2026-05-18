@@ -1,0 +1,40 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Business Systems Analyst",
+      "company": "Cognizant",
+      "period": "Sep 2024 - Present",
+      "location": "",
+      "description": "Gathered requirements for 25+ enhancements, translating business needs into user stories and acceptance criteria that improved sprint delivery accuracy by 22% across enterprise initiatives.\nAnalyzed workflows across finance and operations teams, identifying automation opportunities that reduced manual processing effort by 30% and improved turnaround times significantly organizationwide.\nManaged backlog refinement for three parallel initiatives, helping project teams increase on-time sprint completion rates from 81% to 95% within two quarters.\nCoordinated UAT for 12 production releases, resolving 140+ issues before deployment and reducing post-release incident volume by 28% across critical business applications.\nWrote SQL queries validating 50K+ monthly records, improving data accuracy across reports, reconciliations, and integrated systems supporting multiple operational departments daily usage.\nCreated BRDs, FRDs, process maps, release notes, and training guides that reduced clarification cycles for developers and testers by 35% during implementations.\nWorked with support and engineering teams to resolve Sev-2 and Sev-3 incidents, reducing average resolution time from nine hours to five hours.\nBuilt Power BI and Excel dashboards for KPIs, defect trends, and milestones, reducing manual status reporting effort by 40% across weekly governance meetings.",
+      "responsibilities": [
+        "Gathered requirements for 25+ enhancements, translating business needs into user stories and acceptance criteria that improved sprint delivery accuracy by 22% across enterprise initiatives",
+        "Analyzed workflows across finance and operations teams, identifying automation opportunities that reduced manual processing effort by 30% and improved turnaround times significantly organizationwide",
+        "Managed backlog refinement for three parallel initiatives, helping project teams increase on-time sprint completion rates from 81% to 95% within two quarters",
+        "Coordinated UAT for 12 production releases, resolving 140+ issues before deployment and reducing post-release incident volume by 28% across critical business applications",
+        "Wrote SQL queries validating 50K+ monthly records, improving data accuracy across reports, reconciliations, and integrated systems supporting multiple operational departments daily usage",
+        "Created BRDs, FRDs, process maps, release notes, and training guides that reduced clarification cycles for developers and testers by 35% during implementations",
+        "Worked with support and engineering teams to resolve Sev-2 and Sev-3 incidents, reducing average resolution time from nine hours to five hours",
+        "Built Power BI and Excel dashboards for KPIs, defect trends, and milestones, reducing manual status reporting effort by 40% across weekly governance meetings"
+      ]
+    },
+    {
+      "title": "QA Analyst",
+      "company": "CitiusTech",
+      "period": "Apr 2020 – Aug 2023",
+      "location": "",
+      "description": "Executed functional, regression, integration, and smoke testing for 20+ healthcare releases, maintaining 98% production stability across claims, billing, and enrollment platforms consistently.\nReviewed requirements and user stories for 60+ change requests, identifying gaps early and reducing downstream rework by 24% during testing cycles.\nDeveloped 600+ test cases and reusable scenarios, expanding coverage across core workflows and lowering escaped defects by 27% during scheduled release deployments.\nLogged, prioritized, and retested 450+ defects in Jira, helping developers improve critical defect closure turnaround time by 33% across release cycles.\nPerformed SQL validation across 100K+ records, confirming transformation logic, interface accuracy, and database integrity for reporting and operational systems consistently used.\nSupported UAT for 15 releases, accelerating signoff timelines by 20% through faster issue reproduction and validation of delivered fixes successfully completed.\nParticipated in Agile ceremonies across multi-sprint programs, improving visibility into risks, dependencies, and milestone readiness for delivery teams across functions consistently.\nPrepared weekly QA dashboards covering defect aging, execution progress, and release readiness, reducing manual reporting preparation time by 38% for management.",
+      "responsibilities": [
+        "Executed functional, regression, integration, and smoke testing for 20+ healthcare releases, maintaining 98% production stability across claims, billing, and enrollment platforms consistently",
+        "Reviewed requirements and user stories for 60+ change requests, identifying gaps early and reducing downstream rework by 24% during testing cycles",
+        "Developed 600+ test cases and reusable scenarios, expanding coverage across core workflows and lowering escaped defects by 27% during scheduled release deployments",
+        "Logged, prioritized, and retested 450+ defects in Jira, helping developers improve critical defect closure turnaround time by 33% across release cycles",
+        "Performed SQL validation across 100K+ records, confirming transformation logic, interface accuracy, and database integrity for reporting and operational systems consistently used",
+        "Supported UAT for 15 releases, accelerating signoff timelines by 20% through faster issue reproduction and validation of delivered fixes successfully completed",
+        "Participated in Agile ceremonies across multi-sprint programs, improving visibility into risks, dependencies, and milestone readiness for delivery teams across functions consistently",
+        "Prepared weekly QA dashboards covering defect aging, execution progress, and release readiness, reducing manual reporting preparation time by 38% for management"
+      ]
+    }
+  ]
+}

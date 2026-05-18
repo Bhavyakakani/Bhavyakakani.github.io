@@ -1,0 +1,53 @@
+{
+  "_instructions": "Hero section content.",
+  "greeting": "Hello, I'm",
+  "name": "Bhavya Kakani",
+  "title": "Business Systems Analyst | QA Analyst",
+  "summary": "Business Systems Analyst | QA Analyst with 2+ years of experience specializing in SQL, MySQL, Agile.",
+  "avatarUrl": "/avatar.png",
+  "tagline": "Business Systems Analyst | QA Analyst",
+  "stats": [
+    {
+      "label": "Years Experience",
+      "value": "2+",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "1+",
+      "icon": "fas fa-project-diagram"
+    },
+    {
+      "label": "Certifications",
+      "value": "0+",
+      "icon": "fas fa-certificate"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View Portfolio",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:kakanibhavya512@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "scrollIndicator": {
+    "text": "Scroll to discover more",
+    "icon": "fas fa-chevron-down"
+  }
+}

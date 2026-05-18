@@ -1,0 +1,78 @@
+{
+  "_instructions": "Organize your skills into categories. Each category has a name, icon, and list of skills.",
+  "_iconHelp": "Use Font Awesome icons (https://fontawesome.com/icons).",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "SQL",
+        "MySQL"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Waterfall",
+        "SDLC",
+        "STLC"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "skills": [
+        "Jira",
+        "Confluence",
+        "Azure DevOps",
+        "HP ALM",
+        "ServiceNow",
+        "Visio",
+        "SharePoint",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Power BI"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "Requirements Gathering",
+        "BRD",
+        "FRD",
+        "User Stories",
+        "Acceptance Criteria",
+        "Gap Analysis",
+        "Process Mapping",
+        "Workflow Analysis",
+        "Use Cases",
+        "Change Requests",
+        "UAT",
+        "Stakeholder Management",
+        "Functional Testing",
+        "Regression Testing",
+        "Integration Testing",
+        "Smoke Testing",
+        "SIT",
+        "UAT",
+        "Test Planning",
+        "Test Cases",
+        "Defect Tracking",
+        "Root Cause Analysis",
+        "Release Validation",
+        "Communication",
+        "Documentation",
+        "Problem Solving",
+        "Coordination",
+        "Cross-Functional Collaboration",
+        "Training",
+        "Time Management"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "MS",
+      "school": "Cleveland State University",
+      "institution": "Cleveland State University",
+      "period": "May 2025",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "B. Tech",
+      "school": "CMR Institute of Technology",
+      "institution": "CMR Institute of Technology",
+      "period": "Jul 2022",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": []
+}

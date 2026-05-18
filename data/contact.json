@@ -1,0 +1,14 @@
+{
+  "sectionTitle": "Let's Create Something Amazing",
+  "subtitle": "Have a project in mind? Let's bring it to life together.",
+  "email": "kakanibhavya512@gmail.com",
+  "location": "NY, USA",
+  "availability": "Open to opportunities",
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:kakanibhavya512@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}
