@@ -2,12 +2,12 @@
   "_instructions": "Navigation menu configuration. Add/remove/reorder menu items as needed.",
   "brand": {
     "name": "Bhavya Kakani",
-    "href": "#home"
+    "href": "#hero"
   },
   "menuItems": [
     {
       "text": "Home",
-      "href": "#home"
+      "href": "#hero"
     },
     {
       "text": "About",

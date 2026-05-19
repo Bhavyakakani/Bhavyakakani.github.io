@@ -1,7 +1,8 @@
 {
-  "sectionTitle": "Let's Create Something Amazing",
-  "subtitle": "Have a project in mind? Let's bring it to life together.",
+  "sectionTitle": "Contact",
+  "subtitle": "Open to Business Systems Analyst, QA Analyst, and data-focused delivery roles.",
   "email": "kakanibhavya512@gmail.com",
+  "phone": "+1 216 972 1802",
   "location": "NY, USA",
   "availability": "Open to opportunities",
   "socialLinks": [
@@ -9,6 +10,11 @@
       "platform": "Email",
       "url": "mailto:kakanibhavya512@gmail.com",
       "icon": "fas fa-envelope"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kakani-bhavya/",
+      "icon": "fab fa-linkedin-in"
     }
   ]
 }

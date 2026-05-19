@@ -1,10 +1,10 @@
 {
   "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
   "meta": {
-    "title": "Bhavya Kakani | Business Systems Analyst | QA Analyst",
-    "description": "Bhavya Kakani - Business Systems Analyst | QA Analyst | Portfolio",
+    "title": "Bhavya Kakani | Business Systems Analyst & QA Analyst",
+    "description": "Portfolio for Bhavya Kakani, a Business Systems Analyst and QA Analyst with 5+ years of experience in requirements, testing, SQL validation, dashboards, UAT, and release delivery.",
     "author": "Bhavya Kakani",
-    "keywords": "Business Systems Analyst | QA Analyst, Portfolio, Bhavya Kakani"
+    "keywords": "Bhavya Kakani, Business Systems Analyst, QA Analyst, SQL, UAT, Jira, Power BI, Healthcare QA, Requirements Analysis"
   },
   "branding": {
     "name": "Bhavya Kakani",

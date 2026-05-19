@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>Portfolio</title>
+    <meta name="description" content="Bhavya Kakani - Business Systems Analyst and QA Analyst portfolio">
+    <meta name="author" content="Bhavya Kakani">
+    <title>Bhavya Kakani | Business Systems Analyst & QA Analyst</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230F172A'/%3E%3Ctext x='50%25' y='56%25' text-anchor='middle' font-family='Arial, sans-serif' font-size='26' font-weight='700' fill='%2306B6D4'%3EBK%3C/text%3E%3C/svg%3E">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
@@ -22,22 +23,27 @@
     <!-- Navigation -->
     <nav class="navbar" id="navbar">
         <div class="container">
-            <a href="#" class="nav-brand" id="nav-brand">MJ</a>
-            <button class="nav-toggle" id="nav-toggle"><span></span><span></span><span></span></button>
+            <a href="#hero" class="nav-brand" id="nav-brand">BK</a>
+            <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false"><span></span><span></span><span></span></button>
             <ul class="nav-menu" id="nav-menu"></ul>
         </div>
     </nav>
 
     <!-- Hero -->
     <section id="hero" class="hero-section">
-        <div class="container">
-            <p class="hero-greeting" id="hero-greeting"></p>
-            <h1 class="hero-name" id="hero-name"></h1>
-            <h2 class="hero-title" id="hero-title"></h2>
-            <p class="hero-tagline" id="hero-tagline"></p>
-            <p class="hero-description" id="hero-description"></p>
-            <div class="hero-cta" id="hero-cta"></div>
-            <div class="hero-social" id="hero-social"></div>
+        <div class="container hero-layout">
+            <div class="hero-copy">
+                <p class="hero-greeting" id="hero-greeting"></p>
+                <h1 class="hero-name" id="hero-name"></h1>
+                <h2 class="hero-title" id="hero-title"></h2>
+                <p class="hero-tagline" id="hero-tagline"></p>
+                <p class="hero-description" id="hero-description"></p>
+                <div class="hero-cta" id="hero-cta"></div>
+                <div class="hero-social" id="hero-social"></div>
+            </div>
+            <div class="hero-portrait-card">
+                <img id="hero-avatar" src="" alt="Bhavya Kakani professional headshot">
+            </div>
             <div class="hero-stats" id="hero-stats"></div>
         </div>
     </section>
@@ -51,11 +57,20 @@
         </div>
     </section>
 
-    <!-- Work -->
-    <section id="work" class="section">
+    <!-- Experience -->
+    <section id="experience" class="section section-panel">
         <div class="container">
-            <h2 class="section-title" id="work-title">Work</h2>
-            <div class="work-grid" id="work-grid"></div>
+            <h2 class="section-title" id="experience-title">Experience</h2>
+            <div class="experience-list" id="experience-list"></div>
+        </div>
+    </section>
+
+    <!-- Work -->
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="section-title" id="projects-title">Projects</h2>
+            <p class="section-subtitle" id="projects-subtitle"></p>
+            <div class="work-grid" id="projects-grid"></div>
         </div>
     </section>
 
@@ -64,6 +79,14 @@
         <div class="container">
             <h2 class="section-title" id="skills-title">Skills</h2>
             <div class="skills-grid" id="skills-grid"></div>
+        </div>
+    </section>
+
+    <!-- Education -->
+    <section id="education" class="section section-panel">
+        <div class="container">
+            <h2 class="section-title" id="education-title">Education</h2>
+            <div class="education-grid" id="education-grid"></div>
         </div>
     </section>
 

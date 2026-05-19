@@ -4,22 +4,52 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Programming Languages",
-      "icon": "fas fa-code",
+      "category": "Business Analysis",
+      "icon": "fas fa-diagram-project",
       "skills": [
-        "SQL",
-        "MySQL"
+        "Requirements Gathering",
+        "BRD",
+        "FRD",
+        "User Stories",
+        "Acceptance Criteria",
+        "Gap Analysis",
+        "Process Mapping",
+        "Workflow Analysis",
+        "Use Cases",
+        "Change Requests",
+        "Stakeholder Management"
       ]
     },
     {
-      "category": "Frameworks & Libraries",
-      "icon": "fas fa-toolbox",
+      "category": "Quality Assurance",
+      "icon": "fas fa-vial-circle-check",
       "skills": [
-        "Agile",
-        "Scrum",
-        "Waterfall",
-        "SDLC",
-        "STLC"
+        "Functional Testing",
+        "Regression Testing",
+        "Integration Testing",
+        "Smoke Testing",
+        "SIT",
+        "UAT",
+        "Test Planning",
+        "Test Cases",
+        "Defect Tracking",
+        "Root Cause Analysis",
+        "Release Validation"
+      ]
+    },
+    {
+      "category": "Data & Reporting",
+      "icon": "fas fa-chart-column",
+      "skills": [
+        "SQL",
+        "MySQL",
+        "Microsoft Access",
+        "Microsoft Excel",
+        "Power BI",
+        "Dashboard Development",
+        "KPI Reporting",
+        "Data Validation",
+        "Reconciliation"
       ]
     },
     {
@@ -32,39 +62,18 @@
         "HP ALM",
         "ServiceNow",
         "Visio",
-        "SharePoint",
-        "Microsoft Access",
-        "Microsoft Excel",
-        "Power BI"
+        "SharePoint"
       ]
     },
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-laptop-code",
+      "category": "Delivery Methods",
+      "icon": "fas fa-people-arrows",
       "skills": [
-        "Requirements Gathering",
-        "BRD",
-        "FRD",
-        "User Stories",
-        "Acceptance Criteria",
-        "Gap Analysis",
-        "Process Mapping",
-        "Workflow Analysis",
-        "Use Cases",
-        "Change Requests",
-        "UAT",
-        "Stakeholder Management",
-        "Functional Testing",
-        "Regression Testing",
-        "Integration Testing",
-        "Smoke Testing",
-        "SIT",
-        "UAT",
-        "Test Planning",
-        "Test Cases",
-        "Defect Tracking",
-        "Root Cause Analysis",
-        "Release Validation",
+        "Agile",
+        "Scrum",
+        "Waterfall",
+        "SDLC",
+        "STLC",
         "Communication",
         "Documentation",
         "Problem Solving",

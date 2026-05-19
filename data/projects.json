@@ -1,332 +1,226 @@
 {
-  "_instructions": "Add your professional projects.",
-  "sectionTitle": "Portfolio",
-  "subtitle": "Featured professional projects",
+  "_instructions": "Projects are curated from the resume plus public repositories at https://github.com/Bhavyakakani.",
+  "sectionTitle": "Projects",
+  "subtitle": "A curated mix of resume work and public GitHub projects across SQL, Power BI, Tableau, analytics, QA, and reporting.",
+  "source": {
+    "githubProfile": "https://github.com/Bhavyakakani",
+    "lastFetched": "2026-05-19",
+    "excludedRepos": [
+      "Bhavyakakani",
+      "Bhavyakakani.github.io",
+      "Bhavyakakani.github.io-6593",
+      "contribution-history"
+    ]
+  },
   "projects": [
     {
       "title": "Grocery Store Database Management System",
-      "description": "Designed a relational database supporting inventory, transactions, vendor records, and user access across grocery store operations and reporting workflows.\nDeveloped SQL queries, forms, and reports that improved data retrieval, reporting accuracy, and daily usability for end users.\nPerformed data validation and record corrections, improving consistency across inventory and transaction datasets used for operational reporting.\nDocumented tables, workflows, and business rules supporting future enhancements, onboarding, and easier system maintenance activities.",
-      "longDescription": "Designed a relational database supporting inventory, transactions, vendor records, and user access across grocery store operations and reporting workflows.\nDeveloped SQL queries, forms, and reports that improved data retrieval, reporting accuracy, and daily usability for end users.\nPerformed data validation and record corrections, improving consistency across inventory and transaction datasets used for operational reporting.\nDocumented tables, workflows, and business rules supporting future enhancements, onboarding, and easier system maintenance activities.",
-      "category": "Software Development",
-      "technologies": [
-        "SQL"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "description": "Designed a relational database for inventory, transactions, vendors, user access, reporting workflows, data validation, and operational documentation.",
+      "category": "Database Systems",
+      "technologies": ["SQL", "Relational Database Design", "Forms", "Reports", "Data Validation"],
+      "icon": "fas fa-database",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&q=80&fit=crop",
       "featured": true,
       "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
+      "role": "Database Analyst",
+      "duration": "2025",
+      "client": "Cleveland State University",
       "github": "",
       "demo": "",
       "links": {
         "github": "",
         "demo": "",
         "live": ""
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
       }
     },
     {
-      "title": "cohort_analysis",
-      "description": "Personal development project using industry best practices",
-      "longDescription": "Personal development project using industry best practices",
-      "category": "Software Development",
-      "technologies": [
-        "Jupyter Notebook"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "title": "Healthcare Data Analysis Using Power BI",
+      "description": "Public GitHub project focused on healthcare data analysis, dashboard-style reporting, KPI tracking, and data quality review for operational insight.",
+      "category": "Healthcare Analytics",
+      "technologies": ["Power BI", "Healthcare Data", "KPI Reporting", "Dashboard Development"],
+      "icon": "fas fa-heart-pulse",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&h=400&q=80&fit=crop",
+      "featured": true,
       "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/Bhavyakakani/cohort_analysis",
-      "demo": "https://github.com/Bhavyakakani/cohort_analysis",
-      "links": {
-        "github": "https://github.com/Bhavyakakani/cohort_analysis",
-        "demo": "https://github.com/Bhavyakakani/cohort_analysis",
-        "live": "https://github.com/Bhavyakakani/cohort_analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "real-time-financial-analysis-trading-system",
-      "description": "Learning project built with modern web technologies",
-      "longDescription": "Learning project built with modern web technologies",
-      "category": "Backend Development",
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Java",
-        "SCSS",
-        "Python",
-        "Dockerfile"
-      ],
-      "icon": "fas fa-brain",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
-      "demo": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
-      "links": {
-        "github": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
-        "demo": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
-        "live": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "log-analysis-anomaly-detection",
-      "description": "Modern web application demonstrating clean code principles",
-      "longDescription": "Modern web application demonstrating clean code principles",
-      "category": "Backend Development",
-      "technologies": [
-        "Python"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
-      "demo": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
-      "links": {
-        "github": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
-        "demo": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
-        "live": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "longDescription": "Generated GitHub contribution history",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/Bhavyakakani/contribution-history",
-      "demo": "https://github.com/Bhavyakakani/contribution-history",
-      "links": {
-        "github": "https://github.com/Bhavyakakani/contribution-history",
-        "demo": "https://github.com/Bhavyakakani/contribution-history",
-        "live": "https://github.com/Bhavyakakani/contribution-history"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "healthcare-data-analysis-using-powerbi",
-      "description": "Educational project for mastering software architecture",
-      "longDescription": "Educational project for mastering software architecture",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "role": "Data Analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/Bhavyakakani/healthcare-data-analysis-using-powerbi",
       "demo": "https://github.com/Bhavyakakani/healthcare-data-analysis-using-powerbi",
       "links": {
         "github": "https://github.com/Bhavyakakani/healthcare-data-analysis-using-powerbi",
-        "demo": "https://github.com/Bhavyakakani/healthcare-data-analysis-using-powerbi",
         "live": "https://github.com/Bhavyakakani/healthcare-data-analysis-using-powerbi"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
       }
     },
     {
-      "title": "sales-insights-data-analysis-using-tableau-and-sql",
-      "description": "Practice application demonstrating full-stack development skills",
-      "longDescription": "Practice application demonstrating full-stack development skills",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
+      "title": "Sales Insights Data Analysis Using Tableau and SQL",
+      "description": "Public GitHub project using SQL-backed analysis and Tableau-style business intelligence to surface sales trends, performance gaps, and decision-ready reporting.",
+      "category": "Business Intelligence",
+      "technologies": ["SQL", "Tableau", "Sales Analysis", "Business Intelligence"],
+      "icon": "fas fa-chart-pie",
       "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "featured": true,
       "status": "Completed",
-      "role": "Lead Developer",
+      "role": "Business Analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/Bhavyakakani/sales-insights-data-analysis-using-tableau-and-sql",
       "demo": "https://github.com/Bhavyakakani/sales-insights-data-analysis-using-tableau-and-sql",
       "links": {
         "github": "https://github.com/Bhavyakakani/sales-insights-data-analysis-using-tableau-and-sql",
-        "demo": "https://github.com/Bhavyakakani/sales-insights-data-analysis-using-tableau-and-sql",
         "live": "https://github.com/Bhavyakakani/sales-insights-data-analysis-using-tableau-and-sql"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
       }
     },
     {
-      "title": "stock-analysis",
-      "description": "Learning project built with modern web technologies",
-      "longDescription": "Learning project built with modern web technologies",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
+      "title": "Supply Chain Analysis Capstone Project",
+      "description": "Public GitHub capstone project covering supply-chain workflows, operational KPIs, process bottlenecks, and reporting patterns for business stakeholders.",
+      "category": "Operations Analytics",
+      "technologies": ["Data Analysis", "Process Mapping", "KPI Reporting", "Excel"],
+      "icon": "fas fa-truck-ramp-box",
+      "image": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?w=600&h=400&q=80&fit=crop",
+      "featured": true,
       "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/Bhavyakakani/stock-analysis",
-      "demo": "https://github.com/Bhavyakakani/stock-analysis",
-      "links": {
-        "github": "https://github.com/Bhavyakakani/stock-analysis",
-        "demo": "https://github.com/Bhavyakakani/stock-analysis",
-        "live": "https://github.com/Bhavyakakani/stock-analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "supply-chain-analysis-capstone-project",
-      "description": "Modern web application demonstrating clean code principles",
-      "longDescription": "Modern web application demonstrating clean code principles",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "role": "Operations Analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/Bhavyakakani/supply-chain-analysis-capstone-project",
       "demo": "https://github.com/Bhavyakakani/supply-chain-analysis-capstone-project",
       "links": {
         "github": "https://github.com/Bhavyakakani/supply-chain-analysis-capstone-project",
-        "demo": "https://github.com/Bhavyakakani/supply-chain-analysis-capstone-project",
         "live": "https://github.com/Bhavyakakani/supply-chain-analysis-capstone-project"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
       }
     },
     {
-      "title": "uber-trip-analysis",
-      "description": "Comprehensive project exploring software design patterns",
-      "longDescription": "Comprehensive project exploring software design patterns",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "title": "Stock Analysis",
+      "description": "Public GitHub analysis project for reviewing stock market data, trends, and reporting outputs that support financial decision-making workflows.",
+      "category": "Financial Analytics",
+      "technologies": ["Data Analysis", "Financial Data", "Trend Analysis", "Reporting"],
+      "icon": "fas fa-arrow-trend-up",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&q=80&fit=crop",
       "featured": false,
       "status": "Completed",
-      "role": "Lead Developer",
+      "role": "Data Analyst",
       "duration": "",
       "client": "",
-      "github": "https://github.com/Bhavyakakani/uber-trip-analysis",
-      "demo": "https://github.com/Bhavyakakani/uber-trip-analysis",
+      "github": "https://github.com/Bhavyakakani/stock-analysis",
+      "demo": "https://github.com/Bhavyakakani/stock-analysis",
       "links": {
-        "github": "https://github.com/Bhavyakakani/uber-trip-analysis",
-        "demo": "https://github.com/Bhavyakakani/uber-trip-analysis",
-        "live": "https://github.com/Bhavyakakani/uber-trip-analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
+        "github": "https://github.com/Bhavyakakani/stock-analysis",
+        "live": "https://github.com/Bhavyakakani/stock-analysis"
       }
     },
     {
-      "title": "f1-data-analysis",
-      "description": "Hands-on learning experience with modern frameworks",
-      "longDescription": "Hands-on learning experience with modern frameworks",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "title": "Nursing Home Financial Analysis",
+      "description": "Public GitHub project focused on nursing-home financial performance, healthcare operations reporting, and metric review for business analysis.",
+      "category": "Healthcare Finance",
+      "technologies": ["Financial Analysis", "Healthcare Data", "Excel", "Reporting"],
+      "icon": "fas fa-hospital-user",
+      "image": "https://images.unsplash.com/photo-1584982751601-97dcc096659c?w=600&h=400&q=80&fit=crop",
       "featured": false,
       "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/Bhavyakakani/f1-data-analysis",
-      "demo": "https://github.com/Bhavyakakani/f1-data-analysis",
-      "links": {
-        "github": "https://github.com/Bhavyakakani/f1-data-analysis",
-        "demo": "https://github.com/Bhavyakakani/f1-data-analysis",
-        "live": "https://github.com/Bhavyakakani/f1-data-analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "nursing-home-financial-analysis",
-      "description": "Personal project for exploring modern development practices",
-      "longDescription": "Personal project for exploring modern development practices",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "role": "Financial Analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/Bhavyakakani/nursing-home-financial-analysis",
       "demo": "https://github.com/Bhavyakakani/nursing-home-financial-analysis",
       "links": {
         "github": "https://github.com/Bhavyakakani/nursing-home-financial-analysis",
-        "demo": "https://github.com/Bhavyakakani/nursing-home-financial-analysis",
         "live": "https://github.com/Bhavyakakani/nursing-home-financial-analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
+      }
+    },
+    {
+      "title": "Uber Trip Analysis",
+      "description": "Public GitHub analytics project exploring trip patterns, usage behavior, operational trends, and data visualization opportunities in transportation data.",
+      "category": "Transportation Analytics",
+      "technologies": ["Data Analysis", "Trend Analysis", "Visualization", "Operational Reporting"],
+      "icon": "fas fa-route",
+      "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Data Analyst",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Bhavyakakani/uber-trip-analysis",
+      "demo": "https://github.com/Bhavyakakani/uber-trip-analysis",
+      "links": {
+        "github": "https://github.com/Bhavyakakani/uber-trip-analysis",
+        "live": "https://github.com/Bhavyakakani/uber-trip-analysis"
+      }
+    },
+    {
+      "title": "F1 Data Analysis",
+      "description": "Public GitHub sports analytics project for exploring Formula 1 data, performance trends, comparative metrics, and visualization-ready analysis.",
+      "category": "Sports Analytics",
+      "technologies": ["Data Analysis", "Performance Metrics", "Visualization", "Reporting"],
+      "icon": "fas fa-flag-checkered",
+      "image": "https://images.unsplash.com/photo-1517438322307-e67111335449?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Data Analyst",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Bhavyakakani/f1-data-analysis",
+      "demo": "https://github.com/Bhavyakakani/f1-data-analysis",
+      "links": {
+        "github": "https://github.com/Bhavyakakani/f1-data-analysis",
+        "live": "https://github.com/Bhavyakakani/f1-data-analysis"
+      }
+    },
+    {
+      "title": "Cohort Analysis",
+      "description": "Public GitHub Jupyter Notebook project using cohort logic to compare user behavior over time and support retention-oriented business decisions.",
+      "category": "Customer Analytics",
+      "technologies": ["Jupyter Notebook", "Python", "Cohort Analysis", "Data Visualization"],
+      "icon": "fas fa-layer-group",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Data Analyst",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Bhavyakakani/cohort_analysis",
+      "demo": "https://github.com/Bhavyakakani/cohort_analysis",
+      "links": {
+        "github": "https://github.com/Bhavyakakani/cohort_analysis",
+        "live": "https://github.com/Bhavyakakani/cohort_analysis"
+      }
+    },
+    {
+      "title": "Real-Time Financial Analysis Trading System",
+      "description": "Public GitHub project demonstrating financial analysis workflows, web-based reporting interfaces, and market-oriented data processing.",
+      "category": "Financial Systems",
+      "technologies": ["HTML", "CSS", "JavaScript", "Python", "Java", "Docker"],
+      "icon": "fas fa-money-bill-trend-up",
+      "image": "https://images.unsplash.com/photo-1642790551116-18e150f248e5?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Analyst / Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
+      "demo": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
+      "links": {
+        "github": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system",
+        "live": "https://github.com/Bhavyakakani/real-time-financial-analysis-trading-system"
+      }
+    },
+    {
+      "title": "Log Analysis Anomaly Detection",
+      "description": "Public GitHub Python project for reviewing log patterns, identifying anomalies, and supporting faster issue investigation and root-cause analysis.",
+      "category": "Quality & Monitoring",
+      "technologies": ["Python", "Log Analysis", "Anomaly Detection", "Root Cause Analysis"],
+      "icon": "fas fa-magnifying-glass-chart",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "QA Analyst",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
+      "demo": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
+      "links": {
+        "github": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection",
+        "live": "https://github.com/Bhavyakakani/log-analysis-anomaly-detection"
       }
     }
   ]

@@ -3,24 +3,25 @@
   "greeting": "Hello, I'm",
   "name": "Bhavya Kakani",
   "title": "Business Systems Analyst | QA Analyst",
-  "summary": "Business Systems Analyst | QA Analyst with 2+ years of experience specializing in SQL, MySQL, Agile.",
-  "avatarUrl": "/avatar.png",
+  "summary": "Business Systems Analyst and QA Analyst with 5+ years across enterprise applications, healthcare platforms, requirements delivery, SQL validation, UAT, and release readiness.",
+  "avatarUrl": "assets/images/bhavya-kakani-headshot.png",
   "tagline": "Business Systems Analyst | QA Analyst",
+  "description": "I translate stakeholder needs into clear requirements, test scenarios, dashboards, and release plans that reduce defects, improve data accuracy, and keep cross-functional teams aligned.",
   "stats": [
     {
       "label": "Years Experience",
-      "value": "2+",
+      "value": "5+",
       "icon": "fas fa-briefcase"
     },
     {
-      "label": "Projects Completed",
-      "value": "1+",
-      "icon": "fas fa-project-diagram"
+      "label": "Release Cycles Supported",
+      "value": "27+",
+      "icon": "fas fa-rocket"
     },
     {
-      "label": "Certifications",
-      "value": "0+",
-      "icon": "fas fa-certificate"
+      "label": "Test Cases Developed",
+      "value": "600+",
+      "icon": "fas fa-vial"
     }
   ],
   "cta": {
@@ -32,7 +33,7 @@
         "external": false
       },
       {
-        "text": "View Portfolio",
+        "text": "View Projects",
         "href": "#projects",
         "type": "secondary",
         "external": false
@@ -44,6 +45,11 @@
       "platform": "Email",
       "url": "mailto:kakanibhavya512@gmail.com",
       "icon": "fas fa-envelope"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kakani-bhavya/",
+      "icon": "fab fa-linkedin-in"
     }
   ],
   "scrollIndicator": {

@@ -2,5 +2,14 @@
   "_instructions": "Footer content - copyright and social links.",
   "text": "Designed & Built by Bhavya Kakani",
   "copyright": "© 2026 All rights reserved.",
-  "links": []
+  "links": [
+    {
+      "text": "LinkedIn",
+      "href": "https://www.linkedin.com/in/kakani-bhavya/"
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/Bhavyakakani"
+    }
+  ]
 }

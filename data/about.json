@@ -2,24 +2,24 @@
   "_instructions": "About section content - tell your professional story and showcase key metrics.",
   "sectionTitle": "About Me",
   "content": [
-    "Results-driven analyst with 5+ years of experience supporting enterprise applications, business requirements, testing, and release delivery across healthcare, operations, and corporate environments. Skilled in translating stakeholder needs into user stories, acceptance criteria, process flows, and test scenarios that improve delivery outcomes. Proven success reducing defects, i",
-    "mproving release readiness, strengthening data accuracy, and streamlining workflows through effective system enhancements. Hands-on expertise with SQL, Jira, Excel, Power BI, UAT, regression testing, BRD/FRD documentation, and Agile methodologies. Recognized for strong communication, stakeholder coordination, quick learning, and reliable execution across cross-functional teams."
+    "Results-driven analyst with 5+ years of experience supporting enterprise applications, business requirements, testing, and release delivery across healthcare, operations, and corporate environments.",
+    "Skilled in translating stakeholder needs into user stories, acceptance criteria, process flows, and test scenarios that improve delivery outcomes. Hands-on strengths include SQL, Jira, Excel, Power BI, UAT, regression testing, BRD/FRD documentation, and Agile delivery."
   ],
   "highlights": [
     {
-      "icon": "fas fa-briefcase",
-      "title": "2+",
-      "description": "Companies"
+      "icon": "fas fa-chart-line",
+      "title": "30%",
+      "description": "Manual processing effort reduced through workflow analysis and automation opportunities."
     },
     {
-      "icon": "fas fa-project-diagram",
-      "title": "1+",
-      "description": "Project"
+      "icon": "fas fa-bug-slash",
+      "title": "450+",
+      "description": "Defects logged, prioritized, retested, and driven through release cycles."
     },
     {
-      "icon": "fas fa-code",
-      "title": "30+",
-      "description": "Skills"
+      "icon": "fas fa-database",
+      "title": "150K+",
+      "description": "Records validated across reporting, reconciliation, and integrated systems."
     }
   ]
 }

@@ -4,19 +4,19 @@
   "certificationsTitle": "Certifications",
   "education": [
     {
-      "degree": "MS",
+      "degree": "MS in Information Science",
       "school": "Cleveland State University",
       "institution": "Cleveland State University",
-      "period": "May 2025",
-      "details": "",
+      "period": "May 2025 | OH, USA",
+      "details": "Graduate study focused on information systems, data, and business technology delivery.",
       "description": ""
     },
     {
-      "degree": "B. Tech",
+      "degree": "B. Tech in Computer Science Engineering",
       "school": "CMR Institute of Technology",
       "institution": "CMR Institute of Technology",
-      "period": "Jul 2022",
-      "details": "",
+      "period": "Jul 2022 | India",
+      "details": "Computer science foundation across software engineering, databases, and systems.",
       "description": ""
     }
   ],
